@@ -1,4 +1,4 @@
-# Línea de la vivienda (Basa de datos de Sanity)
+# Línea de la vivienda (Sanity Content Studio)
 
 Este repositorio contiene la instalación de Sanity de la Línea de la vivienda. 
 
